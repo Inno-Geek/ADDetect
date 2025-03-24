@@ -9,6 +9,7 @@ certifi
 charset-normalizer
 click
 colorama
+cv2
 debugpy
 decorator
 faiss-cpu
