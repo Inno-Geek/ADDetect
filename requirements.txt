@@ -27,6 +27,7 @@ Markdown
 matplotlib
 nibabel
 numpy
+opencv-python-headless
 pandas
 protobuf
 pyarrow
