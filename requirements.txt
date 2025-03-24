@@ -29,6 +29,7 @@ nibabel
 numpy
 opencv-python-headless
 pandas
+plotly
 protobuf
 pyarrow
 pytz
