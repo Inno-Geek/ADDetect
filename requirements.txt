@@ -39,6 +39,7 @@ scipy
 seaborn
 six
 streamlit
+streamlit-option-menu
 tensorboard
 tensorflow
 tensorflow-estimator
