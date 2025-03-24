@@ -25,6 +25,7 @@ jsonschema
 keras
 Markdown
 matplotlib
+nibabel
 numpy
 pandas
 protobuf
