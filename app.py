@@ -114,9 +114,6 @@ info_animation = load_lottie_url("https://assets7.lottiefiles.com/packages/lf20_
 
 # Session state initialization
 if 'model' not in st.session_state:
-    # Placeholder for model loading - in production replace with actual model
-    # st.session_state.model = load_model('alzheimer_detection_model.h5')
-    # For demo purposes:
     st.session_state.model = load_model("AlzDetect_Model.keras")
 
 if 'page' not in st.session_state:
